@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">RV Check List</string>
+    <string name="title_text">Trailer Setup Checklist</string>
+    <string name="item_1">Check distance to water \&amp; electric</string>
+    <string name="item_2">Check for room for slide</string>
+    <string name="item_3">Level RV left to right</string>
+    <string name="item_4">Chock the tires</string>
+    <string name="item_5">Disconnect trailer from truck</string>
+    <string name="item_6">Level RV front to back</string>
+    <string name="item_7">Deploy stabilizers</string>
+    <string name="item_8">Connect water and electric</string>
+    <string name="item_9">Check inside for slide obstructions</string>
+    <string name="item_10">Deploy RV slides</string>
+    <string name="item_11">Connect sewer hose</string>
+    <string name="clear">Clear checklist</string>
+    <string name="message">Boxes Cleared</string>
+</resources>
